@@ -1,4 +1,4 @@
-# Hi, I'm Chanakya
+# Hi, I'm Chanakya ☺️
 
 I started coding since's 12. I'm most best in __python with numpy and panadas__. I can explain some python in this `README.md` file. 
 
