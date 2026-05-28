@@ -39,6 +39,6 @@ _skills_ : python, numpy, and panadas .
 _Find me on_ :
 [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kuramdasuchanakya@gmail.com)
  | [YouTube](https://www.youtube.com/@codingwithchanakya)
- | [Twiter](https://x.com/codebychanakya)
+ | [Twitter](https://x.com/codebychanakya)
  | [Github](https://github.com/codingwithchanakya) .
 
