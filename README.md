@@ -40,5 +40,6 @@ _Find me on_ :
 [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kuramdasuchanakya@gmail.com)
  | [YouTube](https://www.youtube.com/@codingwithchanakya)
  | [Twitter](https://x.com/codebychanakya)
+ | [instagram](https://www.instagram.com/codebychanakya/)
  | [Github](https://github.com/codingwithchanakya) .
 
